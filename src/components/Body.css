@@ -98,7 +98,20 @@
 .my-self{
     display: none;
 }
-
+.s-Media{
+    color: #fff;
+    font-size: 45px;
+}
+.socialMd{
+    width: 500px;
+    height: 100px;
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
 @media screen and (max-width: 732px) {
     .body {
         height: auto;
@@ -177,5 +190,8 @@
         margin-top: -120px;
         background: #683ba7;
         background: radial-gradient(circle, #eee 0%, #683ba7 50%, #120b1d 75%, #0e0619 100%);
+    }
+    .socialMd{
+        display: none;
     }
 }
