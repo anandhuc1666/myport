@@ -194,6 +194,7 @@
 
 .cir8-text {
     text-align: center;
+    width: 200px;
 }
 
 .lag1 {
@@ -318,7 +319,37 @@
         display: none;
     }
     .end-box2{
-        padding: 50px;
+        padding: 0px;
         box-sizing: border-box;
     }
+   .end-box2 div{
+    width: 300px;
+   }
+   .cir1{
+    height: 40px;
+   }
+   .cir2{
+    height: 80px;
+   }
+   .cir3{
+    height: 120px;
+   }
+   .cir4{
+    height: 160px;
+   }
+   .cir5{
+    height: 200px;
+   }
+   .cir6{
+    height: 240px;
+   }
+   .cir7{
+    height: 280px;
+   }
+   .cir8{
+    height: 320px;
+   }
+   .cir8-text{
+    width: 100px;
+   }
 }

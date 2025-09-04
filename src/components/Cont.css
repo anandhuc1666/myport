@@ -23,8 +23,9 @@
     box-sizing: border-box;
     color: #fff;
 }
-.contact-form h1{
-font-weight: 100;
+
+.contact-form h1 {
+    font-weight: 100;
 }
 
 .user {
@@ -98,6 +99,7 @@ font-weight: 100;
         width: 350px;
         height: 30px;
         font-size: 15px;
+        width: 280px;
     }
 
     .msg {
@@ -122,12 +124,13 @@ font-weight: 100;
         display: flex;
         position: absolute;
         width: 100px;
-        margin-top: 290px;
+        margin-top: 350px;
         margin-left: 200px;
         background: radial-gradient(circle, #eee 0%, #683ba7 50%, #120b1d 75%, #0e0619 100%);
     }
-    .contact-form h1{
-    display: flex;
-    align-self: center;
+
+    .contact-form h1 {
+        display: flex;
+        align-self: center;
     }
 }

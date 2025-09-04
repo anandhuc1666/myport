@@ -74,7 +74,7 @@ function Pro() {
                     <div className="cir6"></div>
                     <div className="cir7"></div>
                     <div className="cir8">
-                        <img src={logo} alt="" style={{ width: 200 }} className='cir8-text' />
+                        <img src={logo} alt=""  className='cir8-text' />
                         <FaReact className='lag1r' style={{ marginTop: "-150px", marginLeft: "250px" }} />
                         <FaHtml5 className='lag1h' style={{ marginTop: "150px", marginLeft: "-200px" }} />
                         <FaCss3 className='lag1c' style={{ marginLeft: "-350px" }} />
