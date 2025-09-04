@@ -112,17 +112,17 @@
     align-items: center;
     justify-content: space-evenly;
 }
-@media screen and (max-width: 732px) {
+@media screen and (max-width: 763px) {
     .body {
         height: auto;
-        padding: 0;
+        padding: 10px;
         margin: 0;
         height: auto;
     }
 
     .body-container {
         height: auto;
-        padding: 0;
+        padding: 10;
         margin: 0;
     }
 
@@ -159,7 +159,7 @@
     }
 
     .mini-box2 {
-        padding: 0;
+        padding: 0px;
     }
 
     .mini-box2 h1 {

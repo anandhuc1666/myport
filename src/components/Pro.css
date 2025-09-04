@@ -261,7 +261,7 @@
     }
 }
 
-@media screen and (max-width: 732px) {
+@media screen and (max-width: 763px) {
     .demo {
         display: flex;
         color: #fff;
@@ -294,7 +294,8 @@
         justify-content: center;
         align-items: center;
         flex-direction: row;
-        font-size: 15px;
+        font-size: 14px;
+        overflow: hidden;
         text-align: left;
         padding-left: 5px;
         box-sizing: border-box;
