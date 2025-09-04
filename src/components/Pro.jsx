@@ -52,7 +52,7 @@ function Pro() {
             <div className="end-box">
                 <div className="end-box1">
                     
-                    <h2>I'm currently looking to join a <span><Typewriter text='cross-function' speed={100}/></span> team </h2>
+                    <h2>I'm currently looking to join a <span><Typewriter text='cross-function' speed={100}/></span> team ✨</h2>
                     <p>that values imroving perople's lives through accessible design</p>
                     <div className="end-box11">
                         <FaReact className='lag' />

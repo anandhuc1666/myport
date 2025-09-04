@@ -4,6 +4,7 @@ import Body from './components/Body'
 import About from './components/About'
 import './App.css'
 import Pro from './components/Pro'
+import Cont from './components/Cont'
 function App() {
     return (
         <div>
@@ -11,6 +12,7 @@ function App() {
             <Body />
             <About />
             <Pro/>
+            <Cont/>
         </div>
     )
 }

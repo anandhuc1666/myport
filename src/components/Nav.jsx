@@ -1,8 +1,10 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './Nav.css'
 import logo from '../assets/ADlogo.png'
+import { HiBars3 } from "react-icons/hi2";
 
 function Nav() {
+
   return (
     <div className='nav'>
        <div className="nav-logo"><img src={logo} alt="logo" style={{width:80}} className='nav-logos'/></div>
@@ -12,6 +14,7 @@ function Nav() {
         <li>Projects</li>
         <li>Contact</li>
        </div>
+
     </div>
   )
 }

@@ -15,11 +15,9 @@
 }
 
 .boy-img {
-    /* width: 350px; */
     backdrop-filter: blur(10px);
     background: #683ba7;
     background: radial-gradient(circle, #eee 0%, #683ba7 50%, #120b1d 75%, #0e0619 100%);
-    /* border-radius: 200px; */
     height: 290px;
     border: none;
     display: flex;
