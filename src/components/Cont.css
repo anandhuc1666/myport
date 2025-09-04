@@ -96,10 +96,9 @@
     }
 
     .user {
-        width: 350px;
         height: 30px;
         font-size: 15px;
-        width: 280px;
+        width: 250px;
     }
 
     .msg {
