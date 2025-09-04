@@ -160,6 +160,7 @@
 
     .mini-box2 {
         padding: 0px;
+        z-index: 2;
     }
 
     .mini-box2 h1 {
@@ -177,6 +178,7 @@
     .boy-logos {
         display: flex;
         width: 150px;
+         margin-top: 20px;
     }
     .boy-imgs {
         background-color: yellow;
@@ -186,6 +188,7 @@
         width: 210px;
         padding: 18px;
         border: none;
+       
         box-sizing: border-box;
         margin-top: -120px;
         background: #683ba7;

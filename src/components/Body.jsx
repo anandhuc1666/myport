@@ -19,7 +19,7 @@ function Body() {
                 </div>
 
                 <div className="box2">
-                    <div className="mini-box1">Hello, I Am <Typewriter text=" Anandhu Chulliveetill" speed={100} /></div>
+                    <div className="mini-box1">Hello, I Am <Typewriter text="  Anandhu Chulliveetill" speed={100} /></div>
                     <div className="mini-box2">
                         <h1>I'm a Software Developer</h1>
                         <p> <Typewriter text='"I build clean, interactive web apps.😜"' speed={80} /></p>
