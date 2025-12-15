@@ -107,18 +107,6 @@ function Body() {
                     </div>
                 </div>
             </div>
-<<<<<<< HEAD
-=======
-            <div className="boy-imgs">
-                <img src={boy} alt="" className='boy-logos' />
-            </div>
-            <div className="socialMd">
-                <a href="https://www.linkedin.com/in/anandhu-chulliveetill-267956253/ "><FaLinkedin className='s-Media' /></a>
-                <a href=""><FaInstagramSquare className='s-Media' /></a>
-                <a href="https://github.com/anandhuc1666"><FaGithubSquare className='s-Media' /></a>  
-            </div>
-
->>>>>>> 864f43b94157bf3d9b87bcf5ae6c46eeb73d7b53
         </div>
     )
 }
